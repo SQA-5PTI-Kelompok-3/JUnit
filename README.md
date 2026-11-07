@@ -1,5 +1,7 @@
 # JUnit SQA
 
+KELOMPOK 3
+
 Proyek contoh unit testing menggunakan **JUnit 5 (JUnit Jupiter)** pada sebuah aplikasi kalkulator sederhana, dibuat untuk kebutuhan mata kuliah / praktikum Software Quality Assurance (SQA).
 
 ## Teknologi
